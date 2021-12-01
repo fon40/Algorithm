@@ -6,3 +6,4 @@ class Solution:
                 return [hashtable[target-num], i]
             hashtable[num] = i
         return []
+#for test    
